@@ -23,3 +23,4 @@ rootProject.name = "jaru"
 include(":app")
 include(":w03")
 include(":w04")
+include(":w5:w05")
