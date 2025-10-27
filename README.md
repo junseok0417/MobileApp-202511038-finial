@@ -1,7 +1,7 @@
 # MobileApp-202511038-finial
 
 # 3주차
-<img width="1448" height="953" alt="스크린샷 2025-10-27 191351 wkrrp" src="https://github.com/user-attachments/assets/4264bb01-1cd0-42a3-960d-835a9faeb107" />
+<img width="1448" height="953" alt="스크린샷 2025-10-27 191351 wkrrp" src="스크린샷 2025-10-27 191351.png" />
 
 # 4주차
 <img width="2425" height="1582" alt="스크린샷 2025-10-27 191601" src="https://github.com/user-attachments/assets/d6672540-40b2-4df2-87a7-3422db26cee2" />
