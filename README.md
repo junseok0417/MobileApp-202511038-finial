@@ -13,8 +13,10 @@
 <img width="2469" height="1581" alt="스크린샷 2025-10-27 191919" src="https://github.com/user-attachments/assets/97ec69d9-599c-4097-b06e-ee6dd53d3dad" />
 
 # 원화 달러 계산기
-<img width="2469" height="1581" alt="스크린샷 2025-10-27 191919" src="스크린샷 2025-10-29 182417.png" />
-<a>원화와 달러를 서로 변환할 수 있는 간단한 환율 계산기이다.
+<img width="1000" height="1000" alt="스크린샷 2025-10-27 191919" src="스크린샷 2025-10-29 182417.png" />
+<a>
+appwondol/src/main/java/com/example/appwondol/MainActivity.kt
+원화와 달러를 서로 변환할 수 있는 간단한 환율 계산기이다.
 
 "원 → 달러", "달러 → 원" 두 가지 변환 기능을 제공한다.
 
