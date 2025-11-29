@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 미완료 퀘스트 정리 -->
+    <item
+        android:id="@+id/action_clear_incomplete"
+        android:title="Clear Incomplete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:showAsAction="ifRoom" />
+
+    <!-- 히스토리 보기 -->
+    <item
+        android:id="@+id/action_history"
+        android:title="History"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:showAsAction="ifRoom" />
+
+    <!-- 퀘스트 추가 (+) -->
+    <item
+        android:id="@+id/action_add"
+        android:title="Add"
+        android:icon="@android:drawable/ic_input_add"
+        android:showAsAction="ifRoom" />
+</menu>
