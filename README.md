@@ -22,3 +22,7 @@ appwondol/src/main/java/com/example/appwondol/MainActivity.kt
 입력값 초기화 버튼으로 두 입력칸을 즉시 비울 수 있다.
 
 잘못된 입력은 오류 메시지로 처리하며, 화면은 실시간으로 결과를 반영한다.
+
+
+#앱 제작 기말 프로젝트 - Today Quest-
+tlrks/src/main/java/com/example/tlrks
