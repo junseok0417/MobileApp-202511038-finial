@@ -24,5 +24,5 @@ appwondol/src/main/java/com/example/appwondol/MainActivity.kt
 잘못된 입력은 오류 메시지로 처리하며, 화면은 실시간으로 결과를 반영한다.
 
 
-#앱 제작 기말 프로젝트 - Today Quest-
+# 앱 제작 기말 프로젝트 - Today Quest-
 tlrks/src/main/java/com/example/tlrks
