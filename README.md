@@ -26,3 +26,13 @@ appwondol/src/main/java/com/example/appwondol/MainActivity.kt
 
 # 앱 제작 기말 프로젝트 - Today Quest-
 tlrks/src/main/java/com/example/tlrks
+<p align="center">
+  <img src="gif tlrks 1.gif" width="250" />
+  <img src="gif tlrks 2.gif" width="250" />
+  <img src="gif tlrks 3.gif" width="250" />
+</p>
+<p align="center">
+  <img src="gif tlrks 4.gif" width="250" />
+  <img src="gif tlrks 5.gif" width="250" />
+  <img src="gif tlrks 6.gif" width="250" />
+</p>
